@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Arnab</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
+![](https://www.bacancytechnology.com/blog/wp-content/uploads/2020/01/Top-7-Skills-1.png)
 - 🔭 I’m currently working on a **IoT Application**
 
 - 🌱 I’m currently learning **React-Native, React**
